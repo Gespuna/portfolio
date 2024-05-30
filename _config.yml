@@ -1,10 +1,10 @@
-title: Gourav Khunger
-email: gouravkhunger18@gmail.com
+title: Gaspar Espuña Ribas
+email: cav12349@gmail.com
 description: >-
-  Gourav Khunger is a software developer and a self-taught programmer. He specialises in native Android app development and is passionate about Open Source. Checkout his projects on Github!
-baseurl: ""
-url: "https://gourav.sh"
-google_analytics: "G-GSRER1MM23"
+  Gaspar Espuña! 🚀💻
+# baseurl: ""
+# url: "https://gourav.sh"
+# google_analytics: "G-GSRER1MM23"
 
 collections:
   projects:
@@ -40,8 +40,8 @@ jekyll-minifier:
 
 extlinks:
   attributes: { rel: nofollow noopener noreferrer, target: _blank }
-  rel_include: [ "l.gourav.sh" ]
-  rel_exclude: [ "gourav.sh", "github.com", "genicsblog.com" ]
+  rel_include: ["l.gourav.sh"]
+  rel_exclude: ["gourav.sh", "github.com", "genicsblog.com"]
 
 include:
   - _pages
