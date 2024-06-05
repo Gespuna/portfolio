@@ -1,28 +1,41 @@
 - company:
-    name: "Kommunicate"
-    url: "https://www.kommunicate.io"
-    logo: "/assets/images/logos/kommunicate.svg"
-    description: "Kommunicate is a human + bot hybrid platform for real-time, proactive, and personalized support for growing businesses."
+    name: "Espuña"
+    url: "https://www.espuna.es/"
+    logo: "/assets/images/logos/logoEspuña.png"
+    description: "Espuña is an international multinational company known for its excellence and innovation in the food industry."
   positions:
-    - name: "Software Developer Intern"
-      type: "Internship"
-      from: 2021-12-08
-      to: 2022-03-08
-  bars:
-    top: 35%
+    - name: "Full-Stack Developer"
+      type: "Full time"
+      from: Jan 2022
+      to: Feb 2023
+  # bars:
+  #   # top: 20%
+  #   bottom: 30%
 
 - company:
-    name: "BeyondWords"
-    url: "https://beyondwords.io"
-    logo: "/assets/images/logos/beyondwords.svg"
-    description: "BeyondWords is an AI voice and audio publishing platform that brings frictionless audio to writers, newsrooms, and businesses!"
+    name: "GrammarGuru"
+    url: "https://www.linkedin.com/company/grammarguru2023/about/?viewAsMember=true"
+    logo: "/assets/images/logos/grammarGuruLogo.png"
+    description: "GrammarGuru is a web application for fun and interactive quizzes, helping English learners master grammar with ease."
   positions:
-    - name: "Frontend Engineer Intern"
-      type: "Part-time"
-      from: 2022-03-11
-      to: 2022-10-11
-    - name: "Software Developer"
-      type: "Part-time"
-      from: 2022-11-01
-  bars:
-    bottom: 39%
+    - name: "Software Engineer"
+      type: "Full time"
+      from: Jan 2023
+      to: October 2023
+  # bars:
+  #   top: 20%
+
+  # bottom: 20%
+
+- company:
+    name: "Bug-Buster"
+    url: "https://www.linkedin.com/company/bug-buster123/?viewAsMember=true"
+    logo: "/assets/images/logos/bugBusterLogo.png"
+    description: "Bug-Buster is an innovative web application used to catch and display errors in Node.js, offering comprehensive bug visualization, tracking, and reporting tools."
+  positions:
+    - name: "Software Engineer"
+      type: "Full time"
+      from: October 2023
+      to: present
+  # bars:
+  # bottom: 22%

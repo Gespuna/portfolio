@@ -17,7 +17,7 @@ body:
     validations:
       required: true
   - type: textarea
-    id: testimonial
+  id: testimonial
     attributes:
       label: Testimonial
       description: Please enter your testimonial here. Try to keep it 3-4 sentences long.
